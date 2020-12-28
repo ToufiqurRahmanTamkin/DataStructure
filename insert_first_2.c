@@ -29,6 +29,7 @@ void printData()
         current=current->next;
     }
     printf("\n");
+
 }
 
 int main()
